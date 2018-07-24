@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<CommonSettings>
+	<WaitSeconds>15</WaitSeconds>
+	<ImgSimilarity>0.7</ImgSimilarity>
+	<GUI_Repository>GUIRepository</GUI_Repository>
+
+
+	<URLLISAConsole>http://localhost:1505</URLLISAConsole>
+	<InstallPath_Firefox>C:\Program Files\Mozilla Firefox\firefox.exe</InstallPath_Firefox>
+	<InstallPath_Firefox_64>C:\Program Files (x86)\Mozilla Firefox\firefox.exe</InstallPath_Firefox_64>
+	<InstallPath_IE>C:\Program Files\Internet Explorer\iexplore.exe</InstallPath_IE>
+
+	<InstallPath_Registry>\bin\Registry.exe</InstallPath_Registry>
+	<InstallPath_Workstation>\bin\LISAWorkstation.exe</InstallPath_Workstation>
+	<InstallPath_ServiceManager>\bin\ServiceManager.exe</InstallPath_ServiceManager>
+	<InstallPath_DemoServer>\DemoServer\lisa-demo-server</InstallPath_DemoServer>
+	<RegistryName>Registry.exe</RegistryName>
+	<VSEprocessName>VirtualServiceEnvironment.exe</VSEprocessName>
+	<CoordinatorName>CoordinatorServer.exe</CoordinatorName>
+	<SimulatorName>Simulator.exe</SimulatorName>
+
+	<Mail_From>xxx@xxx.com</Mail_From>
+	<Mail_To>xxx@xxx.com</Mail_To>
+	<Mail_Server>mail.xxx.com</Mail_Server>
+	<Mail_Subject>UI Automation Test Result</Mail_Subject>
+	<Result_Pass>Pass</Result_Pass>
+	<Result_Fail>Fail</Result_Fail>
+	<xmlFolder>xml</xmlFolder>
+	<TimesToCheckWindows>10</TimesToCheckWindows>
+	<RetryFailedCases>true</RetryFailedCases>
+</CommonSettings>
